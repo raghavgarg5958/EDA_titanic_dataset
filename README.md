@@ -83,3 +83,4 @@ This project demonstrates practical skills in:
 
 The exploratory analysis reveals several factors that influenced passenger survival on the Titanic, including age, gender, passenger class, family size, fare, and embarkation port. This project highlights how effective data preprocessing and visualization can transform raw data into meaningful insights and provides a strong foundation for future predictive modeling tasks.
 
+Author: Raghav Garg Internship Task: Data Analysis with Python – Task 3
